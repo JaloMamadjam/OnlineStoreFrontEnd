@@ -41,7 +41,7 @@ const NavBar = () => {
           _hover={{ textDecoration: 'none', color: 'blue.400' }}
         >
           <Text fontSize="2xl" fontWeight="bold" color="blue.500">
-            My Store{' '}
+            Store Catalog{' '}
             <Icon
               as={MdLocalGroceryStore}
               boxSize={6}
